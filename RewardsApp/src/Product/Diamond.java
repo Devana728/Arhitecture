@@ -1,6 +1,6 @@
 package Product;
 
-public class Silver extends ItemReward{
+public class Diamond extends ItemReward{
 
     @Override
     public void open() {
